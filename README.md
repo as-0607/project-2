@@ -30,4 +30,4 @@ The project focuses on:
 - I practiced styling product cards and using transitions for better UI/UX.
 
 ## 🔗 Live Preview:
-[View the login form](https://as-0607.github.io/project-2/)
+[View the login form](https://as-0607.github.io/Clothing-Store-Website/)
